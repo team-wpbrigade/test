@@ -17,7 +17,7 @@
 	    line-height: 1.4;
 	    color: #000;
 	    font-weight: 300;
-	    padding-left: 40px;
+	    padding-left: 40px;adssdasdsad
 	}
 	.aligncenter {
 	  height: auto;
